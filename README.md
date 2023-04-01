@@ -1,1 +1,1 @@
-# Image-Gallary
+# Image-Gallary using HTML and CSS
